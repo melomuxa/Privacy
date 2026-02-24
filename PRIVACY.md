@@ -437,7 +437,7 @@ By using Nix, you acknowledge that you have read this Privacy Policy and agree t
 
 **Last Updated:** January 15, 2026
 
-**Version:** 1.0.0
+**Version:** 1.0.13
 
 ---
 
